@@ -1,0 +1,16 @@
+.intro {
+  padding-left: 3.5%;
+  padding-right: 3.5%;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.billboard {
+  height: 500px;
+  width: 100%;
+  background: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.5)), to(rgba(0, 0, 0, 0.5))), url("billboard.jpg");
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("billboard.jpg");
+  background-position: center;
+  background-size: cover;
+}
+/*# sourceMappingURL=index.css.map */
